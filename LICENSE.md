@@ -16,3 +16,7 @@ All business logic, community management mechanics, user interaction flows, and 
 
 ### 3. Permissions
 All rights for commercialization, distribution, and development remain solely with the author. If you wish to use any part of this project, you must obtain prior written consent from the copyright holder.
+
+### 4. AI Training & Scraping Restriction
+* **No AI Training:** The code, design, documentation, and any related materials in this repository may NOT be used, in whole or in part, for the purpose of training, fine-tuning, or otherwise improving any artificial intelligence, machine learning algorithms, or large language models (LLMs) without explicit written permission from the author.
+* **Data Mining:** Automated scraping, crawling, or data mining of this repository or the deployed application for the purpose of dataset creation is strictly prohibited.
